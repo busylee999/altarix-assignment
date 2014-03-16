@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoCheckIn</string>
+
+    <string name="btn_start_text">Start</string>
+
+    <string name="btn_stop_text">Stop</string>
+
+    <string name="btn_show_map_text">Show map</string>
+
+    <string name="gps_provider_error">No available providers</string>
+</resources>
